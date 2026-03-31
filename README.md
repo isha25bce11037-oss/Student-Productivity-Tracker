@@ -63,6 +63,8 @@ Future Improvements
 Use a real-world dataset
 Add more features (stress, diet, social life)
 Implement advanced ML models
+
+AUTHOR : ISHA OJHA , REG no. : 25BCE1137
 Deploy as a web/app-based system
 Conclusion
 
